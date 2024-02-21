@@ -7,6 +7,7 @@ La función del proyecto fué crear una calculadora funcional, donde se pueden r
 Se utilizó:
  - HTML
  - CSS grid y flexbox
+ - JavaScript
  - Bootstrap Icons
 
 ### 📋DESARROLLO
