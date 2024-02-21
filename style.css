@@ -16,6 +16,16 @@ body{
     margin-top: 20px;
 }
 
+.by{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.by a{
+    color: grey;
+    text-decoration: none;
+}
+
 .calculadora{
     display: grid;
     grid-template-columns: repeat(4, 75px);
@@ -24,19 +34,6 @@ body{
     padding: 15px;
     border-radius: 32px;
     box-shadow: 15px 10px 0px 5px #00000033;
-}
-
-.redes{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    margin: 1em;
-}
-
-i{
-    font-size: 1.6em;
-    padding: .3em;
 }
 
 button{
