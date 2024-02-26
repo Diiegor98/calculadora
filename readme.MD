@@ -1,7 +1,7 @@
 
 # CALCULADORA 🧮
 
-La función del proyecto fué crear una calculadora funcional, donde se pueden realizar operaciones arigméticas como la suma, resta, multiplicación y división.
+La función del proyecto fué crear una calculadora funcional, donde se pueden realizar operaciones aritméticas como la suma, resta, multiplicación y división.
 
 ### 🛠 SKILLS
 Se utilizó:
